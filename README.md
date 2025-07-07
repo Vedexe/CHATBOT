@@ -1,4 +1,5 @@
-AI Voice Chatbot using:
+
+Chatbot using:
 
 🔥 Vite + React
 
@@ -7,4 +8,6 @@ AI Voice Chatbot using:
 🎙️ Web Speech API for voice-to-text input
 
 💬 Text and voice-based conversation UI
+
+LINK:- https://vedexe.github.io/gemini3/
 
