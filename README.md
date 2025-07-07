@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chatbot using:
 
-Currently, two official plugins are available:
+🔥 Vite + React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Gemini Pro API (Google Generative AI)
+
+🎙️ Web Speech API for voice-to-text input
+
+💬 Text and voice-based conversation UI
+
+LINK:- https://vedexe.github.io/gemini3/
+
