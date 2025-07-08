@@ -9,5 +9,4 @@ Chatbot using:
 
 💬 Text and voice-based conversation UI
 
-LINK:- https://vedexe.github.io/gemini3/
-
+LINK:-https://vedexe.github.io/chatbot/
